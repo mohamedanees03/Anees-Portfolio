@@ -1,0 +1,41 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(./images/glasses-crop-laptop-near-coffee-plants.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0px;
+}
+h1{
+    color: rgb(8, 117, 212);
+    text-transform: uppercase;
+    -webkit-text-stroke: 2px black;
+}
+.inside-box{
+    border: 5px solid black;
+}
+.header{
+    color: black;
+}
+.img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.py-5{
+    display: flex;
+    flex-direction: row;
+}
+.form{
+    padding-left: 50px;
+}
+.heading{
+    color: aliceblue;
+    -webkit-text-stroke: white;
+}
+.connect{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
