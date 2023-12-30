@@ -4,7 +4,7 @@
 
 .banner{
     /* Corrected CSS code */
-    background-image: url('../images/glasses-crop-laptop-near-coffee-plants.jpg');
+    background-image: url(../images/glasses-crop-laptop-near-coffee-plants.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 300px 0px;
